@@ -13,6 +13,7 @@
 		EB4770DB25A288FC00D3CB64 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB4770D925A288FC00D3CB64 /* Main.storyboard */; };
 		EB4770DD25A288FE00D3CB64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB4770DC25A288FE00D3CB64 /* Assets.xcassets */; };
 		EB4770E025A288FE00D3CB64 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB4770DE25A288FE00D3CB64 /* LaunchScreen.storyboard */; };
+		EB4770E925A3854C00D3CB64 /* Petition.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4770E825A3854B00D3CB64 /* Petition.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EB4770DC25A288FE00D3CB64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB4770DF25A288FE00D3CB64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB4770E125A288FE00D3CB64 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB4770E825A3854B00D3CB64 /* Petition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petition.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EB4770D325A288FC00D3CB64 /* AppDelegate.swift */,
 				EB4770D525A288FC00D3CB64 /* SceneDelegate.swift */,
 				EB4770D725A288FC00D3CB64 /* ViewController.swift */,
+				EB4770E825A3854B00D3CB64 /* Petition.swift */,
 				EB4770D925A288FC00D3CB64 /* Main.storyboard */,
 				EB4770DC25A288FE00D3CB64 /* Assets.xcassets */,
 				EB4770DE25A288FE00D3CB64 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EB4770D825A288FC00D3CB64 /* ViewController.swift in Sources */,
+				EB4770E925A3854C00D3CB64 /* Petition.swift in Sources */,
 				EB4770D425A288FC00D3CB64 /* AppDelegate.swift in Sources */,
 				EB4770D625A288FC00D3CB64 /* SceneDelegate.swift in Sources */,
 			);
